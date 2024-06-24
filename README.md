@@ -83,4 +83,4 @@ This repository contains a collection of lab exercises completed during the NYU 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/NYU_AI_School_Labs.git
+   git clone https://github.com/ahmadbasyouni10/NYU-AI-School-Labs.git
